@@ -13,7 +13,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Newbigfonsz/cloud-homelab?style=social)](https://github.com/Newbigfonsz/cloud-homelab/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Newbigfonsz/cloud-homelab?style=social)](https://github.com/Newbigfonsz/cloud-homelab/network/members)
 
-## AWS Cloud Engineer | Infrastructure Enthusiast | Cloud Homelab Builder
+## Cloud & Systems Administration Student | Infrastructure Enthusiast | Cloud Homelab Builder
 
 Passionate about building scalable, production-grade infrastructure and learning cutting-edge cloud technologies.
 
