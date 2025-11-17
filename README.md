@@ -56,7 +56,7 @@ Passionate about building scalable, production-grade infrastructure and learning
 ![Newbigfonsz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newbigfonsz&show_icons=true&theme=dark)
 
 ### 🤝 Connect With Me
-- 💼 LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/alphonzojonesjr)
+- 💼 LinkedIn:(www.linkedin.com/in/alphonzojonesjr)
 - 📧 Email: Newbigfonsz@gmail.com
 - 📍 Location: Sterling, VA
 
